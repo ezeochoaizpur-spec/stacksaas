@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Guía de compra con recomendaciones de productos</title>
+  <desc id="desc">Una persona responde preguntas y recibe una recomendación desde un catálogo de productos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#134e4a"/></linearGradient>
+    <linearGradient id="mint" x1="0" x2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feDropShadow dx="0" dy="18" stdDeviation="17" flood-color="#020617" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="1090" cy="66" r="230" fill="#2dd4bf" opacity=".08"/>
+  <circle cx="64" cy="560" r="210" fill="#a3e635" opacity=".07"/>
+  <path d="M367 295h170m176 0h139" fill="none" stroke="#99f6e4" stroke-width="7" stroke-linecap="round" stroke-dasharray="11 15"/>
+  <g filter="url(#shadow)">
+    <rect x="92" y="185" width="275" height="220" rx="25" fill="#fff"/>
+    <circle cx="145" cy="240" r="25" fill="#ccfbf1"/>
+    <path d="M136 240h18m-9-9v18" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+    <rect x="185" y="230" width="138" height="13" rx="6" fill="#cbd5e1"/>
+    <rect x="126" y="286" width="210" height="42" rx="21" fill="#f0fdfa" stroke="#99f6e4" stroke-width="2"/>
+    <circle cx="151" cy="307" r="8" fill="#0d9488"/>
+    <rect x="171" y="300" width="132" height="13" rx="6" fill="#94a3b8"/>
+    <rect x="126" y="345" width="210" height="34" rx="17" fill="#f8fafc"/>
+    <rect x="145" y="356" width="100" height="11" rx="5" fill="#cbd5e1"/>
+    <rect x="537" y="146" width="176" height="298" rx="30" fill="#fff"/>
+    <rect x="554" y="163" width="142" height="264" rx="20" fill="#f8fafc"/>
+    <circle cx="625" cy="226" r="42" fill="url(#mint)"/>
+    <path d="M606 226h38m-19-19v38" stroke="#064e3b" stroke-width="7" stroke-linecap="round"/>
+    <rect x="572" y="290" width="106" height="11" rx="5" fill="#94a3b8"/>
+    <rect x="572" y="314" width="80" height="10" rx="5" fill="#cbd5e1"/>
+    <rect x="572" y="350" width="106" height="39" rx="19" fill="#ccfbf1"/>
+    <path d="m591 370 8 8 16-18" fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="852" y="185" width="256" height="220" rx="25" fill="#fff"/>
+    <rect x="876" y="210" width="208" height="116" rx="16" fill="#ecfeff"/>
+    <path d="M912 286c18-32 36-42 58-30l20-21 34 51" fill="none" stroke="#0d9488" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="912" cy="286" r="8" fill="#0f766e"/><circle cx="970" cy="256" r="8" fill="#0f766e"/><circle cx="990" cy="235" r="8" fill="#0f766e"/>
+    <rect x="878" y="346" width="126" height="12" rx="6" fill="#cbd5e1"/>
+    <rect x="878" y="369" width="82" height="10" rx="5" fill="#e2e8f0"/>
+    <circle cx="1056" cy="365" r="24" fill="#d1fae5"/>
+    <path d="m1045 365 8 8 15-17" fill="none" stroke="#047857" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="600" y="520" fill="#ccfbf1" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" letter-spacing="4">PREGUNTAR · COMPARAR · ELEGIR</text>
+</svg>
