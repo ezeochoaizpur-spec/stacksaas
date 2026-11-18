@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/polypal-reuniones.html",
+      "destination": "/polypal-review.html",
+      "permanent": true
+    }
+  ]
+}
