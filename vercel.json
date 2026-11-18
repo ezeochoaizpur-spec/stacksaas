@@ -4,6 +4,26 @@
       "source": "/polypal-reuniones.html",
       "destination": "/polypal-review.html",
       "permanent": true
+    },
+    {
+      "source": "/nordvpn-planes.html",
+      "destination": "/vpn-comparativa.html#planes-nordvpn",
+      "permanent": true
+    },
+    {
+      "source": "/nordvpn-privacidad.html",
+      "destination": "/vpn-comparativa.html#privacidad-nordvpn",
+      "permanent": true
+    },
+    {
+      "source": "/surfshark-planes.html",
+      "destination": "/vpn-comparativa.html#planes-surfshark",
+      "permanent": true
+    },
+    {
+      "source": "/surfshark-privacidad.html",
+      "destination": "/vpn-comparativa.html#privacidad-surfshark",
+      "permanent": true
     }
   ]
 }
